@@ -1,0 +1,7 @@
+@import 'variables';
+@import 'bootstrap-overrides';
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+div{
+    background: $var_red;
+}
